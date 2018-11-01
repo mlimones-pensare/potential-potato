@@ -13,7 +13,7 @@
                 <li class="list-group-item"><a href="">Notas de Venta</a></li>
                 <li class="list-group-item"><a href="">Administradores</a></li>
                 <li class="list-group-item"><a href="">Proveedores</a></li>
-                <li class="list-group-item"><a href="{{ route('admin.reports') }}">Reportes</a></li>
+                <li class="list-group-item"><a href="">Reportes</a></li>
                 <li class="list-group-item"><a href="">Productos Calificados</a></li>
                 <li class="list-group-item"><a href="">Comentarios En Pagina</a></li>
                 <li class="list-group-item"><a href="">Presolicitud de Franquicia</a></li>
@@ -30,7 +30,7 @@
         <div class="col-8">
             <div class="card">
                 <div class="card-body">
-                    Welcome!
+                    Reports
                 </div>
             </div>
         </div>
